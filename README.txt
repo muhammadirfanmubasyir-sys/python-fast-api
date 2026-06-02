@@ -1,11 +1,10 @@
-pip install fastapi
-pip install uvicorn
+VENV
+====
+D:\PROJECTS\python\simple-fastapi-example>python -m venv .venv
 
-INSTALL
-=======
-sudo apt install python3-fastapi
-sudo apt install python3-uvicorn
-sudo apt install uvicorn
+D:\PROJECTS\python\simple-fastapi-example>.venv\Scripts\activate
+
+(.venv) D:\PROJECTS\python\simple-fastapi-example>pip install -r requirements.txt
 
 RUN
 ===
